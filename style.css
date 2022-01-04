@@ -1,0 +1,20 @@
+body{
+        background-image:url(https://wallpaperaccess.com/full/194900.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        image-rendering: pixelated;
+      }
+
+*{
+  color: darkred
+}
+
+
+main{
+  font-family:cursive;
+  text-align:start;
+  margin-top: 10px;
+  margin-bottom: 100px;
+  margin-right: 180px;
+  margin-left: 20px;
+}
