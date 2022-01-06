@@ -6,15 +6,19 @@ body{
       }
 
 *{
-  color: darkred
+  color: darkred;
 }
 
 
 main{
-  font-family:cursive;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align:start;
   margin-top: 10px;
   margin-bottom: 100px;
   margin-right: 180px;
   margin-left: 20px;
+}
+
+p{
+  font-size: 25px;
 }
